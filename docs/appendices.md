@@ -2,11 +2,10 @@
 
 ## Appendix A: Cover Page Examples
 
-<img src="../images/media/image8.png"
-style="width:2.99648in;height:4.25in" alt="P103#yIS1" /><img src="../images/media/image9.png"
-style="width:2.98in;height:4.25in" alt="P103#yIS2" /><img src="../images/media/image10.png"
-style="width:3.25in;height:4.23438in" alt="P103#yIS3" /><img src="../images/media/image11.png"
-style="width:3.25in;height:4.25472in" alt="P103#yIS4" />
+![Example cover page design 1](images/media/image8.png){: style="width:2.99648in;height:4.25in" }
+![Example cover page design 2](images/media/image9.png){: style="width:2.98in;height:4.25in" }
+![Example cover page design 3](images/media/image10.png){: style="width:3.25in;height:4.23438in" }
+![Example cover page design 4](images/media/image11.png){: style="width:3.25in;height:4.25472in" }
 
 ## Appendix B: Required WPI Title Page for Final Report
 
@@ -52,12 +51,9 @@ information about the projects program at WPI, see
 Please note: Your Proposal should use an Authorship Table as described
 in section 4.2.
 
-<img src="../images/media/image12.png"
-style="width:5.88403in;height:3.49236in" alt="P178#y1" />
+![Example final report authorship table](images/media/image12.png){: style="width:5.88403in;height:3.49236in" }
 
 ## Appendix D: Example Meet the Team Pages
 
-<img src="../images/media/image1.png"
-style="width:3.39021in;height:4.5in" alt="P128#yIS2" /><img src="../images/media/image2.png"
-style="width:3.41576in;height:4.5in"
-alt="Graphical user interface, website Description automatically generated" />
+![Example Meet the Team page layout 1](images/media/image1.png){: style="width:3.39021in;height:4.5in" }
+![Graphical user interface, website Description automatically generated](images/media/image2.png){: style="width:3.41576in;height:4.5in" }

@@ -37,9 +37,7 @@ need to learn</u>. Then decide the methods you will use to learn it.
 
 Your research design should create a logical connection between your:
 
-<img src="../../images/media/image7.png"
-style="width:6.8637in;height:1.23031in"
-alt="The diagram illustrates a project management process, starting with a goal, followed by research, objectives, questions, and methods, leading to analysis. AI-generated content may be incorrect." />
+![The diagram illustrates a project management process, starting with a goal, followed by research, objectives, questions, and methods, leading to analysis. AI-generated content may be incorrect.](../images/media/image7.png){: style="width:6.8637in;height:1.23031in" }
 
 Each part should help you make decisions about the next.
 
@@ -898,9 +896,7 @@ understand when organized by method or using another structure. Whatever
 organization you choose, make the logic of your research easy to follow.
 Your reader should be able to trace the connections among your:
 
-<img src="../../images/media/image7.png"
-style="width:6.8637in;height:1.23031in"
-alt="The diagram illustrates a project management process, starting with a goal, followed by research, objectives, questions, and methods, leading to analysis. AI-generated content may be incorrect." />
+![The diagram illustrates a project management process, starting with a goal, followed by research, objectives, questions, and methods, leading to analysis. AI-generated content may be incorrect.](../images/media/image7.png){: style="width:6.8637in;height:1.23031in" }
 
 If those connections are difficult for your reader to follow, reconsider
 the organization of the chapter. The structure should help make your
