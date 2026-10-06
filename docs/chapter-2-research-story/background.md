@@ -129,9 +129,11 @@ when the project is strongly grounded in a particular place,
 organization, or community and readers need that context to understand
 why the broader research is relevant.
 
-### <img src="../../images/media/image6.png"
+<img src="../../images/media/image6.png"
 style="width:4.01877in;height:2.35417in"
-alt="The diagram illustrates a conceptual framework identifying key barriers to health service access, including transportation, geographic challenges, cultural factors, and communication issues. AI-generated content may be incorrect." />A Thematic Structure
+alt="The diagram illustrates a conceptual framework identifying key barriers to health service access, including transportation, geographic challenges, cultural factors, and communication issues. AI-generated content may be incorrect." />
+
+### A Thematic Structure
 
 For some projects, there is no obvious broad-to-narrow sequence.
 Instead, readers may need to understand several connected dimensions of

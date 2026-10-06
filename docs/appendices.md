@@ -57,7 +57,7 @@ style="width:5.88403in;height:3.49236in" alt="P178#y1" />
 
 ## Appendix D: Example Meet the Team Pages
 
-### <img src="../images/media/image1.png"
+<img src="../images/media/image1.png"
 style="width:3.39021in;height:4.5in" alt="P128#yIS2" /><img src="../images/media/image2.png"
 style="width:3.41576in;height:4.5in"
 alt="Graphical user interface, website Description automatically generated" />
