@@ -56,7 +56,7 @@ will probably move back and forth among these steps rather than
 following them once in order. That is part of the research and writing
 process.
 
-![The research and writing process diagram](../images/media/image3.png){: style="width:6in;height:0.95833in" }
+![The research and writing process diagram](../images/media/image3.png){: style="width:6in;height:3.5in" }
 
 ## Synthesizing Your Research
 
@@ -77,7 +77,9 @@ synthesizing what the research helps us understand about the issue.
 
 ## Organizing Your Background
 
-![Background chapter organization illustration](../images/media/image4.png){: style="width:4.27847in;height:3.54792in" } There is no single correct
+![Background chapter organization illustration](../images/media/image4.png){: style="width:4.27847in;height:3.54792in" }
+
+There is no single correct
 way to organize a Background chapter. Choosing the structure is one of
 the important decisions your team will make. Think about the story your
 Background needs to tell. *What does your reader need to understand
@@ -106,7 +108,7 @@ Sometimes readers need to understand the local context before the
 broader research will make sense. In this case, a sandwich structure may
 work better.
 
-![The image shows a sandwich made with whole wheat bread, filled with fresh lettuce, tomato, and slices of ham. AI-generated content may be incorrect.](../images/media/image5.jpg){: style="width:3.35417in;height:2.88889in" }
+![The image shows a sandwich made with whole wheat bread, filled with fresh lettuce, tomato, and slices of ham. AI-generated content may be incorrect.](../images/media/image5.jpg){: style="width:3.35417in;height:2.23611in" }
 
 The community and its current waste-management challenge\
 ↓\

@@ -5,7 +5,7 @@
 ![Example cover page design 1](images/media/image8.png){: style="width:2.99648in;height:4.25in" }
 ![Example cover page design 2](images/media/image9.png){: style="width:2.98in;height:4.25in" }
 ![Example cover page design 3](images/media/image10.png){: style="width:3.25in;height:4.23438in" }
-![Example cover page design 4](images/media/image11.png){: style="width:3.25in;height:4.25472in" }
+![Example cover page design 4](images/media/image11.png){: style="width:3.25in;height:4.33912in" }
 
 ## Appendix B: Required WPI Title Page for Final Report
 
@@ -51,7 +51,7 @@ information about the projects program at WPI, see
 Please note: Your Proposal should use an Authorship Table as described
 in [section 4.2](chapter-4-completing/proposal.md#authorship-table).
 
-![Example final report authorship table](images/media/image12.png){: style="width:5.88403in;height:3.49236in" }
+![Example final report authorship table](images/media/image12.png){: style="width:5.88403in;height:4.13021in" }
 
 ## Appendix D: Example Meet the Team Pages
 
