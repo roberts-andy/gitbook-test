@@ -1,0 +1,62 @@
+/*
+ * WPI brand theme for Material for MkDocs.
+ *
+ * Colors from WPI's official brand guidelines (wpi.edu/+marketing):
+ *   Crimson: #AC2B37 (Pantone 187 C)
+ *   Gray:    #A9B0B7 (Pantone 429 C)
+ *   Black:   #000000
+ *
+ * WPI's official typefaces (Myriad Pro / Minion Pro) are licensed Adobe
+ * fonts and cannot be embedded on a public site without a license. This
+ * stylesheet uses the web-safe alternatives WPI's own guidelines name for
+ * internal/digital use (Verdana for body copy) plus a serif headline font
+ * in the spirit of Minion Pro. Swap these for the licensed fonts via
+ * @font-face if WPI provides web-licensed font files.
+ */
+
+:root,
+[data-md-color-scheme="default"] {
+  /* Primary: used for header, sidebar, and text links */
+  --md-primary-fg-color: #ac2b37;
+  --md-primary-fg-color--light: #c65763;
+  --md-primary-fg-color--dark: #7c1f28;
+  --md-primary-bg-color: #ffffff;
+  --md-primary-bg-color--light: #ffffff;
+
+  /* Accent: hovered links, buttons, scrollbars */
+  --md-accent-fg-color: #8a222c;
+  --md-accent-fg-color--transparent: rgba(172, 43, 55, 0.1);
+  --md-accent-bg-color: #ffffff;
+  --md-accent-bg-color--light: #ffffff;
+
+  /* Typography */
+  --md-text-font: Verdana, Arial, Helvetica, sans-serif;
+  --md-code-font: "Courier New", Courier, monospace;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #ac2b37;
+  --md-primary-fg-color--light: #c65763;
+  --md-primary-fg-color--dark: #7c1f28;
+
+  --md-accent-fg-color: #e2828c;
+  --md-accent-fg-color--transparent: rgba(172, 43, 55, 0.2);
+}
+
+/* WPI gray for subtle surfaces, rules, and table headers */
+.md-typeset table:not([class]) th {
+  background-color: #a9b0b7;
+  color: #ffffff;
+}
+
+.md-typeset hr {
+  border-bottom-color: #a9b0b7;
+}
+
+/* Serif headings (stand-in for Minion Pro) in WPI crimson */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  font-family: Georgia, "Times New Roman", serif;
+  color: #ac2b37;
+}
