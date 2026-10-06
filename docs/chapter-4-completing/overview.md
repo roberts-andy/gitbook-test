@@ -33,7 +33,7 @@ Use the table below as a quick reference for what belongs in each.
 
 The Introduction, Background, and Methods appear in both documents, but
 they should not simply be copied from your proposal into your final
-report. As discussed in Part II, these chapters should be revisited and
+report. As discussed in [Chapter 2](../chapter-2-research-story/index.md), these chapters should be revisited and
 revised as your understanding of the project develops and to reflect the
 research you actually completed.
 
@@ -53,7 +53,7 @@ incorporated into the report itself, such as a website, video, training
 manual, or other project product. From here, the guide addresses the two
 documents separately:
 
-> **4.2 Completing Your ID2050 Research Proposal**
+> **[4.2 Completing Your ID2050 Research Proposal](proposal.md)**
 >
-> **4.3 Completing Your IQP Final Report**
+> **[4.3 Completing Your IQP Final Report](final-report.md)**
 

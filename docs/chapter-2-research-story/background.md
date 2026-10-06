@@ -159,11 +159,11 @@ Several other parts of this guide address research and writing skills
 that you will use when developing your Background. You can refer to
 these sections as needed when you are writing your background chapter.
 
-- Quoting, Paraphrasing, and Summarizing: Section 5.4
+- Quoting, Paraphrasing, and Summarizing: [Section 5.4](../chapter-5-documenting/citations.md#quoting-paraphrasing-and-summarizing)
 
-- Citations and References: Section 5.4
+- Citations and References: [Section 5.4](../chapter-5-documenting/citations.md)
 
-- Using AI in Research and Writing: Section 5.4
+- Using AI in Research and Writing: [Section 5.4](../chapter-5-documenting/citations.md#ai-generated-content-and-sources)
 
 ## Writing Your Proposal Background
 

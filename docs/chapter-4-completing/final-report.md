@@ -207,7 +207,8 @@ Follow the same conventions described for your proposal:
 - List of Tables, if applicable
 
 Make sure these reflect the final headings, titles, captions, and page
-numbers in your completed report. See Section 5.3 for information on
+numbers in your completed report. See [Section
+5.3](../chapter-5-documenting/formatting.md) for information on
 formatting your Table of Contents, List of Figures, and List of Tables.
 
 ## References
@@ -215,7 +216,8 @@ formatting your Table of Contents, List of Figures, and List of Tables.
 As with your proposal, include a complete References section containing
 the sources actually cited in your report. Update your References as you
 revise your Background, Methods, Findings, and other sections during
-IQP. See Section 5.4 for more information on References and Citations.
+IQP. See [Section 5.4](../chapter-5-documenting/citations.md) for more
+information on References and Citations.
 
 ## Appendices and Supplemental Materials
 
@@ -335,11 +337,11 @@ project.
 Refer to these sections for guidance that applies across the final
 report:
 
-- Designing for Your Reader: Section 5.1
+- Designing for Your Reader: [Section 5.1](../chapter-5-documenting/designing-for-reader.md)
 
-- Figures, Tables, and Data Visualization: Section 5.2
+- Figures, Tables, and Data Visualization: [Section 5.2](../chapter-5-documenting/figures-tables.md)
 
-- Formatting and Document Mechanics: Section 5.3
+- Formatting and Document Mechanics: [Section 5.3](../chapter-5-documenting/formatting.md)
 
-- Citations and References: Section 5.4
+- Citations and References: [Section 5.4](../chapter-5-documenting/citations.md)
 

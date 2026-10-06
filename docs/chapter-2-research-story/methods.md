@@ -909,11 +909,11 @@ Several other parts of this guide address skills and requirements that
 you will use when developing and documenting your methodology. Refer to
 these sections as needed:
 
-- Citations and References: Section 5.4
+- Citations and References: [Section 5.4](../chapter-5-documenting/citations.md)
 
-- Data Collection Tools and Supporting Materials: Section 5.4
+- [Data-Collection Tools and Supporting Materials](#data-collection-tools-and-supporting-materials) (see above)
 
-- Appendices and Supplemental Materials: Section 5.4
+- Appendices and Supplemental Materials: [Section 4.3](../chapter-4-completing/final-report.md#appendices-and-supplemental-materials)
 
 - WPI Institutional Review Board: [WPI IRB
   website](https://www.wpi.edu/offices/vice-provost-research/compliance/institutional-review-board)

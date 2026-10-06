@@ -49,7 +49,7 @@ information about the projects program at WPI, see
 ## Appendix C: Example Final Report Authorship
 
 Please note: Your Proposal should use an Authorship Table as described
-in section 4.2.
+in [section 4.2](chapter-4-completing/proposal.md#authorship-table).
 
 ![Example final report authorship table](images/media/image12.png){: style="width:5.88403in;height:3.49236in" }
 

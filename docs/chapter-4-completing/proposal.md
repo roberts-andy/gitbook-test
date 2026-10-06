@@ -115,7 +115,8 @@ consistently:
 If you do not use figures or tables, you do not need to include an empty
 list. Detailed guidance for headings, page numbering, figure and table
 captions, and other document-formatting conventions is provided in
-Section 5.2 and 5.3.
+[Section 5.2](../chapter-5-documenting/figures-tables.md) and
+[5.3](../chapter-5-documenting/formatting.md).
 
 ## References
 
@@ -125,7 +126,8 @@ other parts of the document. The References section includes sources
 that are actually cited in the proposal. It should not simply be a list
 of everything your team read while researching the project. Detailed
 guidance about in-text citations, formatting references, and citing
-different types of sources is provided in Section 5.4.
+different types of sources is provided in
+[Section 5.4](../chapter-5-documenting/citations.md).
 
 ## Proposal Appendices
 

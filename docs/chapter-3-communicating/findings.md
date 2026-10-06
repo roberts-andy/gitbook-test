@@ -168,8 +168,8 @@ More extensive data can be placed in an Appendix or Supplemental
 Material when it is useful for readers to have access to it. Figures and
 tables should reinforce the point you make in the narrative, not replace
 the narrative. Introduce and interpret each visual rather than expecting
-it to speak for itself. See 5.2 Figures, Tables, and Data Visualization
-for additional guidance.
+it to speak for itself. See [5.2 Figures, Tables, and Data
+Visualization](../chapter-5-documenting/figures-tables.md) for additional guidance.
 
 ### Triangulate Your Evidence
 
