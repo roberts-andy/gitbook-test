@@ -1,0 +1,49 @@
+site_name: IQP Writing Guide
+site_description: A guide to writing the ID2050 research proposal and IQP final report.
+docs_dir: docs
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+    - content.code.copy
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - attr_list
+  - md_in_html
+  - tables
+
+nav:
+  - Home: index.md
+  - Chapter 1 - Writing Through the IQP Process: chapter-1-iqp-process.md
+  - Chapter 2 - Building Your Research Story:
+      - Overview: chapter-2-research-story/index.md
+      - 2.1 Introduction: chapter-2-research-story/introduction.md
+      - 2.2 Background Chapter: chapter-2-research-story/background.md
+      - 2.3 Methods Chapter: chapter-2-research-story/methods.md
+  - Chapter 3 - Making Sense of and Communicating What You Learned:
+      - Overview: chapter-3-communicating/index.md
+      - 3.1 Findings: chapter-3-communicating/findings.md
+      - 3.2 Recommendations: chapter-3-communicating/recommendations.md
+      - 3.3 Conclusion: chapter-3-communicating/conclusion.md
+  - Chapter 4 - Completing the Proposal and Final Report:
+      - Overview: chapter-4-completing/index.md
+      - 4.1 What Goes in Each Document?: chapter-4-completing/overview.md
+      - 4.2 Completing Your ID2050 Research Proposal: chapter-4-completing/proposal.md
+      - 4.3 Completing Your IQP Final Report: chapter-4-completing/final-report.md
+  - Chapter 5 - Documenting Your Project and Designing Your Report:
+      - Overview: chapter-5-documenting/index.md
+      - 5.1 Designing for Your Reader: chapter-5-documenting/designing-for-reader.md
+      - 5.2 Figures, Tables, and Data Visualization: chapter-5-documenting/figures-tables.md
+      - 5.3 Formatting and Document Mechanics: chapter-5-documenting/formatting.md
+      - 5.4 Citations and References: chapter-5-documenting/citations.md
+      - 5.5 Editing and Proofreading Your Report: chapter-5-documenting/editing.md
+      - 5.6 Final Document Checklist: chapter-5-documenting/checklist.md
+  - Chapter 6 - Sharing and Extending Your Project: chapter-6-sharing.md
+  - Resources: resources.md
+  - Appendices: appendices.md

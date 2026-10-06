@@ -1,31 +1,26 @@
----
-layout: default
-title: Proposal to Final Report Writing Guide
-description: A practical guide to developing an IQP research proposal and final report.
----
+# IQP Writing Guide
 
-# Proposal to Final Report Writing Guide
+Welcome to the Interactive Qualifying Project (IQP) Writing Guide. This
+guide walks you through writing your ID2050 research proposal and your
+IQP final report, from your first proposal draft through assembling,
+formatting, and sharing your completed report.
 
-Use this guide throughout ID2050 and your Interactive Qualifying Project (IQP). It helps your team develop a research proposal, carry that plan into the field, and shape what you learned into a clear final report.
+Use the navigation to jump to any chapter:
 
-The proposal is a starting plan, not a script. Return to it as your research evolves, update your understanding, and make sure the final report reflects the work you actually completed.
+1. **[Writing Through the IQP Process](chapter-1-iqp-process.md)** — how
+   the proposal and final report relate, and how to use this guide.
+2. **[Building Your Research Story](chapter-2-research-story/index.md)** —
+   writing your Introduction, Background, and Methods chapters.
+3. **[Making Sense of and Communicating What You Learned](chapter-3-communicating/index.md)** —
+   writing your Findings, Recommendations, and Conclusion chapters.
+4. **[Completing the Proposal and Final Report](chapter-4-completing/index.md)** —
+   assembling every required component of each document.
+5. **[Documenting Your Project and Designing Your Report](chapter-5-documenting/index.md)** —
+   visual design, figures and tables, formatting, citations, and editing.
+6. **[Sharing and Extending Your Project](chapter-6-sharing.md)** —
+   submitting, printing, and publishing your work.
 
-## Explore the guide
+Additional material:
 
-{% assign chapters = site.pages | where_exp: "item", "item.nav_order" | sort: "nav_order" %}
-<div class="chapter-grid">
-{% for chapter in chapters %}
-  <a class="chapter-card" href="{{ chapter.url | relative_url }}">
-    <span class="chapter-number">Section {{ chapter.nav_order }}</span>
-    <strong>{{ chapter.title | escape }}</strong>
-    <span>{{ chapter.description | escape }}</span>
-    <span>Read section</span>
-  </a>
-{% endfor %}
-</div>
-
-## A guide to use as a team
-
-The chapters are organized to help you move from project context and research design to findings, recommendations, and a polished report. You can read them in order or return to the sections that fit the work your team is doing now.
-
-As you work, keep the central research story visible: what you needed to understand, how you investigated it, what the evidence shows, and what you can reasonably recommend.
+- **[Resources](resources.md)** — design, APA, and example-report resources.
+- **[Appendices](appendices.md)** — cover page, title page, and authorship examples.
