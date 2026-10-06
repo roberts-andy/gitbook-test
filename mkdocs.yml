@@ -20,7 +20,7 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Chapter 1 - Writing Through the IQP Process: chapter-1-iqp-process.md
+  - Chapter 1 - Writing Through the IQP Process: chapter-1-iqp-process/index.md
   - Chapter 2 - Building Your Research Story:
       - Overview: chapter-2-research-story/index.md
       - 2.1 Introduction: chapter-2-research-story/introduction.md
@@ -44,6 +44,6 @@ nav:
       - 5.4 Citations and References: chapter-5-documenting/citations.md
       - 5.5 Editing and Proofreading Your Report: chapter-5-documenting/editing.md
       - 5.6 Final Document Checklist: chapter-5-documenting/checklist.md
-  - Chapter 6 - Sharing and Extending Your Project: chapter-6-sharing.md
+  - Chapter 6 - Sharing and Extending Your Project: chapter-6-sharing/index.md
   - Resources: resources.md
   - Appendices: appendices.md

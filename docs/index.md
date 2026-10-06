@@ -7,7 +7,7 @@ formatting, and sharing your completed report.
 
 Use the navigation to jump to any chapter:
 
-1. **[Writing Through the IQP Process](chapter-1-iqp-process.md)** — how
+1. **[Writing Through the IQP Process](chapter-1-iqp-process/index.md)** — how
    the proposal and final report relate, and how to use this guide.
 2. **[Building Your Research Story](chapter-2-research-story/index.md)** —
    writing your Introduction, Background, and Methods chapters.
@@ -17,7 +17,7 @@ Use the navigation to jump to any chapter:
    assembling every required component of each document.
 5. **[Documenting Your Project and Designing Your Report](chapter-5-documenting/index.md)** —
    visual design, figures and tables, formatting, citations, and editing.
-6. **[Sharing and Extending Your Project](chapter-6-sharing.md)** —
+6. **[Sharing and Extending Your Project](chapter-6-sharing/index.md)** —
    submitting, printing, and publishing your work.
 
 Additional material:
