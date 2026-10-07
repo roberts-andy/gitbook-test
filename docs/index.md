@@ -25,4 +25,4 @@ Additional material:
 - **[Resources](resources.md)** — design, APA, and example-report resources.
 - **[Appendices](appendices.md)** — cover page, title page, and authorship examples.
 
-This is a test
+

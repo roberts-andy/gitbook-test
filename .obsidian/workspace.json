@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a3de8c30a2516268",
+        "id": "7bec77e23f6d94dc",
         "type": "tabs",
         "children": [
           {
-            "id": "4937ccc37debcf76",
+            "id": "91bf8e69b2e5ca5e",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "docs/index.md",
-                "bFile": "docs/index.md",
-                "aRef": ""
+                "file": "docs/index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: index  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -99,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -159,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "docs/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -196,10 +199,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4937ccc37debcf76",
+  "active": "91bf8e69b2e5ca5e",
   "lastOpenFiles": [
+    "docs/resources.md",
     "docs/index.md",
-    "docs/chapter-1-iqp-process/index.md",
-    "docs/resources.md"
+    "docs/chapter-1-iqp-process/index.md"
   ]
 }
