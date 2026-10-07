@@ -11,10 +11,14 @@
             "id": "4937ccc37debcf76",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "docs/index.md",
+                "bFile": "docs/index.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: index  (Working Tree)"
             }
           }
         ]
@@ -194,8 +198,8 @@
   },
   "active": "4937ccc37debcf76",
   "lastOpenFiles": [
+    "docs/index.md",
     "docs/chapter-1-iqp-process/index.md",
-    "docs/resources.md",
-    "docs/index.md"
+    "docs/resources.md"
   ]
 }
